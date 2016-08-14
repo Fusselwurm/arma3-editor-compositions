@@ -23,7 +23,6 @@ class items
 				class Attributes
 				{
 					rank="SERGEANT";
-					init="0 = [this] execVM ""dynamicGroups\createAlpha.sqf"";";
 					description="Squad Leader (Alpha)";
 					isPlayable=1;
 				};
