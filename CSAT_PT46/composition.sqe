@@ -1,0 +1,962 @@
+version=52;
+center[]={1839.0447,5.5,5910.3262};
+class items
+{
+	items=4;
+	class Item0
+	{
+		dataType="Group";
+		side="East";
+		class Entities
+		{
+			items=14;
+			class Item0
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-14.69873,0.0014390945,-11.114258};
+					angles[]={0,0.30510101,0};
+				};
+				side="East";
+				flags=6;
+				class Attributes
+				{
+					rank="SERGEANT";
+					description="Squad Leader (Alpha)";
+					isPlayer=1;
+					isPlayable=1;
+				};
+				id=1;
+				type="O_Soldier_SL_F";
+			};
+			class Item1
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-12.23291,0.0014390945,-10.809082};
+					angles[]={0,6.1167855,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Squad Medic";
+					isPlayable=1;
+				};
+				id=2;
+				type="O_medic_F";
+			};
+			class Item2
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-17.197876,0.0014390945,-5.6035156};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					rank="CORPORAL";
+					description="Team Leader";
+					isPlayable=1;
+				};
+				id=3;
+				type="O_Soldier_TL_F";
+			};
+			class Item3
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-20.651123,0.0014390945,-2.1132813};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Machine Gunner";
+					isPlayable=1;
+				};
+				id=4;
+				type="O_Soldier_AR_F";
+			};
+			class Item4
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-18.87793,0.0014390945,-2.0981445};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="AT-Specialist";
+					isPlayable=1;
+				};
+				id=5;
+				type="O_Soldier_AT_F";
+			};
+			class Item5
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-13.776367,0.0014390945,-2.6328125};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Rifleman";
+					isPlayable=1;
+				};
+				id=6;
+				type="O_Soldier_F";
+			};
+			class Item6
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-6.4008789,0.0014390945,-6.1342773};
+					angles[]={0,3.7784286,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					rank="CORPORAL";
+					description="Team Leader";
+					isPlayable=1;
+				};
+				id=7;
+				type="O_Soldier_TL_F";
+			};
+			class Item7
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-7.8499756,0.0014390945,-3.090332};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Machine Gunner";
+					isPlayable=1;
+				};
+				id=8;
+				type="O_Soldier_AR_F";
+			};
+			class Item8
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-5.8648682,0.0014390945,-3.3300781};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="AT-Specialist";
+					isPlayable=1;
+				};
+				id=9;
+				type="O_Soldier_AT_F";
+			};
+			class Item9
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-3.8686523,0.0014390945,-3.4980469};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Ammo Bearer";
+					isPlayable=1;
+				};
+				id=10;
+				type="O_Soldier_A_F";
+			};
+			class Item10
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-1.9144287,0.0014390945,-3.8022461};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Rifleman";
+					isPlayable=1;
+				};
+				id=11;
+				type="O_Soldier_F";
+			};
+			class Item11
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={0.078491211,0.0014390945,-4.0810547};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Rifleman";
+					isPlayable=1;
+				};
+				id=12;
+				type="O_Soldier_F";
+			};
+			class Item12
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-15.592896,0.0014390945,-2.3344727};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Rifleman";
+					isPlayable=1;
+				};
+				id=13;
+				type="O_Soldier_F";
+			};
+			class Item13
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-17.165894,0.0014390945,-2.1821289};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Ammo Bearer";
+					isPlayable=1;
+				};
+				id=14;
+				type="O_Soldier_A_F";
+			};
+		};
+		class Attributes
+		{
+		};
+		id=0;
+		class CustomAttributes
+		{
+			class Attribute0
+			{
+				property="groupID";
+				expression="_this setGroupID [_value];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"STRING"
+							};
+						};
+						value="Alpha";
+					};
+				};
+			};
+			nAttributes=1;
+		};
+	};
+	class Item1
+	{
+		dataType="Group";
+		side="East";
+		class Entities
+		{
+			items=14;
+			class Item0
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-11.811646,0.0014390945,3.4438477};
+					angles[]={0,0.30510101,0};
+				};
+				side="East";
+				flags=6;
+				class Attributes
+				{
+					rank="SERGEANT";
+					description="Squad Leader (Bravo)";
+					isPlayable=1;
+				};
+				id=16;
+				type="O_Soldier_SL_F";
+			};
+			class Item1
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-9.3458252,0.0014390945,3.7485352};
+					angles[]={0,6.1167855,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Squad Medic";
+					isPlayable=1;
+				};
+				id=17;
+				type="O_medic_F";
+			};
+			class Item2
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-14.310791,0.0014390945,8.9541016};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					rank="CORPORAL";
+					description="Team Leader";
+					isPlayable=1;
+				};
+				id=18;
+				type="O_Soldier_TL_F";
+			};
+			class Item3
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-17.764038,0.0014390945,12.444336};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Machine Gunner";
+					isPlayable=1;
+				};
+				id=19;
+				type="O_Soldier_AR_F";
+			};
+			class Item4
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-15.990845,0.0014390945,12.459473};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="AT-Specialist";
+					isPlayable=1;
+				};
+				id=20;
+				type="O_Soldier_AT_F";
+			};
+			class Item5
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-10.889282,0.0014390945,11.924805};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Rifleman";
+					isPlayable=1;
+				};
+				id=21;
+				type="O_Soldier_F";
+			};
+			class Item6
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-3.5137939,0.0014390945,8.4233398};
+					angles[]={0,3.7784286,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					rank="CORPORAL";
+					description="Team Leader";
+					isPlayable=1;
+				};
+				id=22;
+				type="O_Soldier_TL_F";
+			};
+			class Item7
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-4.9628906,0.0014390945,11.467285};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Machine Gunner";
+					isPlayable=1;
+				};
+				id=23;
+				type="O_Soldier_AR_F";
+			};
+			class Item8
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-2.9777832,0.0014390945,11.227539};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="AT-Specialist";
+					isPlayable=1;
+				};
+				id=24;
+				type="O_Soldier_AT_F";
+			};
+			class Item9
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-0.98156738,0.0014390945,11.05957};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Ammo Bearer";
+					isPlayable=1;
+				};
+				id=25;
+				type="O_Soldier_A_F";
+			};
+			class Item10
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={0.97265625,0.0014390945,10.755371};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Rifleman";
+					isPlayable=1;
+				};
+				id=26;
+				type="O_Soldier_F";
+			};
+			class Item11
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={2.9655762,0.0014390945,10.476563};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Rifleman";
+					isPlayable=1;
+				};
+				id=27;
+				type="O_Soldier_F";
+			};
+			class Item12
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-12.705811,0.0014390945,12.223145};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Rifleman";
+					isPlayable=1;
+				};
+				id=28;
+				type="O_Soldier_F";
+			};
+			class Item13
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-14.278809,0.0014390945,12.375488};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Ammo Bearer";
+					isPlayable=1;
+				};
+				id=29;
+				type="O_Soldier_A_F";
+			};
+		};
+		class Attributes
+		{
+		};
+		id=15;
+		class CustomAttributes
+		{
+			class Attribute0
+			{
+				property="groupID";
+				expression="_this setGroupID [_value];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"STRING"
+							};
+						};
+						value="Bravo";
+					};
+				};
+			};
+			nAttributes=1;
+		};
+	};
+	class Item2
+	{
+		dataType="Group";
+		side="East";
+		class Entities
+		{
+			items=14;
+			class Item0
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={14.998291,0.0014390945,-4.5332031};
+					angles[]={0,0.30510101,0};
+				};
+				side="East";
+				flags=6;
+				class Attributes
+				{
+					rank="SERGEANT";
+					description="Squad Leader (Charlie)";
+					isPlayable=1;
+				};
+				id=31;
+				type="O_Soldier_SL_F";
+			};
+			class Item1
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={17.4646,0.0014390945,-4.2280273};
+					angles[]={0,6.1167855,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Squad Medic";
+					isPlayable=1;
+				};
+				id=32;
+				type="O_medic_F";
+			};
+			class Item2
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={12.499634,0.0014390945,0.97753906};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					rank="CORPORAL";
+					description="Team Leader";
+					isPlayable=1;
+				};
+				id=33;
+				type="O_Soldier_TL_F";
+			};
+			class Item3
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={9.0463867,0.0014390945,4.4677734};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Machine Gunner";
+					isPlayable=1;
+				};
+				id=34;
+				type="O_Soldier_AR_F";
+			};
+			class Item4
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={10.81958,0.0014390945,4.4829102};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="AT-Specialist";
+					isPlayable=1;
+				};
+				id=35;
+				type="O_Soldier_AT_F";
+			};
+			class Item5
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={15.921143,0.0014390945,3.9482422};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Rifleman";
+					isPlayable=1;
+				};
+				id=36;
+				type="O_Soldier_F";
+			};
+			class Item6
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={23.296631,0.0014390945,0.44677734};
+					angles[]={0,3.7784286,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					rank="CORPORAL";
+					description="Team Leader";
+					isPlayable=1;
+				};
+				id=37;
+				type="O_Soldier_TL_F";
+			};
+			class Item7
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={21.847534,0.0014390945,3.4907227};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Machine Gunner";
+					isPlayable=1;
+				};
+				id=38;
+				type="O_Soldier_AR_F";
+			};
+			class Item8
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={23.832642,0.0014390945,3.2509766};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="AT-Specialist";
+					isPlayable=1;
+				};
+				id=39;
+				type="O_Soldier_AT_F";
+			};
+			class Item9
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={25.828857,0.0014390945,3.0830078};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Ammo Bearer";
+					isPlayable=1;
+				};
+				id=40;
+				type="O_Soldier_A_F";
+			};
+			class Item10
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={27.783081,0.0014390945,2.7788086};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Rifleman";
+					isPlayable=1;
+				};
+				id=41;
+				type="O_Soldier_F";
+			};
+			class Item11
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={29.776001,0.0014390945,2.5};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Rifleman";
+					isPlayable=1;
+				};
+				id=42;
+				type="O_Soldier_F";
+			};
+			class Item12
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={14.104614,0.0014390945,4.246582};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Rifleman";
+					isPlayable=1;
+				};
+				id=43;
+				type="O_Soldier_F";
+			};
+			class Item13
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={12.531616,0.0014390945,4.3989258};
+					angles[]={0,2.8504543,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					description="Ammo Bearer";
+					isPlayable=1;
+				};
+				id=44;
+				type="O_Soldier_A_F";
+			};
+		};
+		class Attributes
+		{
+		};
+		id=30;
+		class CustomAttributes
+		{
+			class Attribute0
+			{
+				property="groupID";
+				expression="_this setGroupID [_value];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"STRING"
+							};
+						};
+						value="Charlie";
+					};
+				};
+			};
+			nAttributes=1;
+		};
+	};
+	class Item3
+	{
+		dataType="Group";
+		side="East";
+		class Entities
+		{
+			items=4;
+			class Item0
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={4.673584,0.0014390945,-19.36377};
+					angles[]={0,0.69184852,0};
+				};
+				side="East";
+				flags=6;
+				class Attributes
+				{
+					rank="CAPTAIN";
+					description="Platoon Leader";
+					isPlayable=1;
+				};
+				id=46;
+				type="O_officer_F";
+			};
+			class Item1
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={4.8857422,0.0014390945,-16.272949};
+					angles[]={0,6.0767651,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					rank="LIEUTENANT";
+					description="Assistant Commander";
+					isPlayable=1;
+				};
+				id=47;
+				type="O_Soldier_SL_F";
+			};
+			class Item2
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={0.28918457,0.0014390945,-19.243652};
+				};
+				side="East";
+				flags=5;
+				class Attributes
+				{
+					rank="CORPORAL";
+				};
+				id=48;
+				type="O_medic_F";
+			};
+			class Item3
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={8.8459473,0.0014390945,-18.536133};
+				};
+				side="East";
+				flags=5;
+				class Attributes
+				{
+				};
+				id=49;
+				type="O_Soldier_F";
+			};
+		};
+		class Attributes
+		{
+		};
+		id=45;
+	};
+};
