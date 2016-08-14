@@ -41,7 +41,7 @@ class items
 					isPlayable=1;
 				};
 				id=64;
-				type="B_Soldier_F";;
+				type="B_Soldier_F";
 			};
 			class Item2
 			{
