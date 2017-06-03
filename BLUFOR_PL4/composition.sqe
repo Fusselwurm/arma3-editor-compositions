@@ -1,0 +1,90 @@
+version=52;
+center[]={1807.8263,5.5,6062.1475};
+class items
+{
+	items=1;
+	class Item0
+	{
+		dataType="Group";
+		side="West";
+		class Entities
+		{
+			items=4;
+			class Item0
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-1.1412354,0.0014390945,-0.37158203};
+					angles[]={0,3.2820568,0};
+				};
+				side="West";
+				flags=7;
+				class Attributes
+				{
+					rank="CAPTAIN";
+					isPlayer=1;
+					isPlayable=1;
+				};
+				id=153;
+				type="B_officer_F";
+			};
+			class Item1
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={0.8223877,0.0014390945,-0.99316406};
+					angles[]={0,3.2820611,0};
+				};
+				side="West";
+				flags=5;
+				class Attributes
+				{
+					rank="LIEUTENANT";
+					isPlayable=1;
+				};
+				id=154;
+				type="B_officer_F";
+			};
+			class Item2
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={1.1297607,0.0014390945,0.57324219};
+					angles[]={0,3.4065583,0};
+				};
+				side="West";
+				flags=5;
+				class Attributes
+				{
+					rank="CORPORAL";
+				};
+				id=155;
+				type="B_medic_F";
+			};
+			class Item3
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-0.8112793,0.0014390945,0.99316406};
+					angles[]={0,3.5129795,0};
+				};
+				side="West";
+				flags=5;
+				class Attributes
+				{
+					isPlayable=1;
+				};
+				id=156;
+				type="B_Soldier_F";
+			};
+		};
+		class Attributes
+		{
+		};
+		id=152;
+	};
+};

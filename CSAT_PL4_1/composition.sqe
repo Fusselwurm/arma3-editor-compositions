@@ -1,0 +1,180 @@
+version=52;
+center[]={1843.7184,5.5,5891.7202};
+class items
+{
+	items=1;
+	class Item0
+	{
+		dataType="Group";
+		side="East";
+		class Entities
+		{
+			items=4;
+			class Item0
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-0.00012207031,0.0014390945,-0.7578125};
+					angles[]={0,0.69184852,0};
+				};
+				side="East";
+				flags=6;
+				class Attributes
+				{
+					rank="CAPTAIN";
+					description="Platoon Leader";
+					isPlayable=1;
+				};
+				id=46;
+				type="O_officer_F";
+				class CustomAttributes
+				{
+					class Attribute0
+					{
+						property="pitch";
+						expression="_this setpitch _value;";
+						class Value
+						{
+							class data
+							{
+								class type
+								{
+									type[]=
+									{
+										"SCALAR"
+									};
+								};
+								value=1.03;
+							};
+						};
+					};
+					nAttributes=1;
+				};
+			};
+			class Item1
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={0.21203613,0.0014390945,2.3330078};
+					angles[]={0,6.0767651,0};
+				};
+				side="East";
+				flags=4;
+				class Attributes
+				{
+					rank="LIEUTENANT";
+					description="Assistant Commander";
+					isPlayable=1;
+				};
+				id=47;
+				type="O_Soldier_SL_F";
+				class CustomAttributes
+				{
+					class Attribute0
+					{
+						property="pitch";
+						expression="_this setpitch _value;";
+						class Value
+						{
+							class data
+							{
+								class type
+								{
+									type[]=
+									{
+										"SCALAR"
+									};
+								};
+								value=0.98000002;
+							};
+						};
+					};
+					nAttributes=1;
+				};
+			};
+			class Item2
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={-4.3845215,0.0014390945,-0.63769531};
+				};
+				side="East";
+				flags=5;
+				class Attributes
+				{
+					rank="CORPORAL";
+				};
+				id=48;
+				type="O_medic_F";
+				class CustomAttributes
+				{
+					class Attribute0
+					{
+						property="pitch";
+						expression="_this setpitch _value;";
+						class Value
+						{
+							class data
+							{
+								class type
+								{
+									type[]=
+									{
+										"SCALAR"
+									};
+								};
+								value=0.94999999;
+							};
+						};
+					};
+					nAttributes=1;
+				};
+			};
+			class Item3
+			{
+				dataType="Object";
+				class PositionInfo
+				{
+					position[]={4.1722412,0.0014390945,0.069824219};
+				};
+				side="East";
+				flags=5;
+				class Attributes
+				{
+				};
+				id=49;
+				type="O_Soldier_F";
+			};
+		};
+		class Attributes
+		{
+		};
+		id=45;
+		class CustomAttributes
+		{
+			class Attribute0
+			{
+				property="groupID";
+				expression="_this setGroupID [_value];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"STRING"
+							};
+						};
+						value="1 Plt";
+					};
+				};
+			};
+			nAttributes=1;
+		};
+	};
+};
